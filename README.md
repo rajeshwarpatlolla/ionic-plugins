@@ -64,7 +64,6 @@ List of plugins for ionic framework
 - [ionic-datepicker](https://github.com/DenniLa2/ionic-datepicker) - 'ionic-multi-date-picker' bower component for ionic framework applications
 - [ionic-snippets-sublime-plugin](https://github.com/TenthGeek/ionic-snippets-sublime-plugin) - A sublime plugin complete with ionic framework snippets
 - [pullup-footer](https://github.com/arielfaur/ionic-pullup)
-- -
  
 ## Code snippets
 - [Code Snippets](https://codepen.io/ionic/)
