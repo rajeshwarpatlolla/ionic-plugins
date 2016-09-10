@@ -5,6 +5,7 @@ List of plugins for ionic framework
 - [PhoneGap & Cordova plugins list](http://phonegap-plugins.com)
 - [Ionic market](https://market.ionic.io/plugins)
 - [ionic v2 plugins](http://ionicframework.com/docs/v2/native) - Ionic Native is a curated set of ES5/ES6/TypeScript wrappers for Cordova/PhoneGap plugins that make adding any native functionality you need to your Ionic, Cordova, or Web View mobile app easy.
+- [cordova-camera-roll](https://github.com/lotterfriends/cordova-camera-roll) - An iOS camera roll plugin for Cordova/PhoneGap
 - [ionic-datepicker](https://github.com/rajeshwarpatlolla/ionic-datepicker) - A date picker for ionic framework applications 
 - [ionic-timepicker](https://github.com/rajeshwarpatlolla/ionic-timepicker) - A time picker for ionic framework applications
 - [ionic-toast](https://github.com/rajeshwarpatlolla/ionic-toast) - A toast for ionic framework applications
