@@ -8,6 +8,7 @@ List of plugins for ionic framework
 - [cordova-camera-roll](https://github.com/lotterfriends/cordova-camera-roll) - An iOS camera roll plugin for Cordova/PhoneGap
 - [saveToPhotolibrary](https://github.com/lotterfriends/saveToPhotolibrary) - Simple plugin to handle save image to user library on iOS
 - [refreshgallery](https://github.com/lotterfriends/refreshgallery) - Phonegap Plugin Refresh Gallery
+- [imgcache](https://github.com/chrisben/imgcache.js) - JS library based on the File API to cache images for offline recovery (target: cordova/phonegap & chrome)
 - [ionic-datepicker](https://github.com/rajeshwarpatlolla/ionic-datepicker) - A date picker for ionic framework applications 
 - [ionic-timepicker](https://github.com/rajeshwarpatlolla/ionic-timepicker) - A time picker for ionic framework applications
 - [ionic-toast](https://github.com/rajeshwarpatlolla/ionic-toast) - A toast for ionic framework applications
