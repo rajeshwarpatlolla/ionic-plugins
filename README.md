@@ -3,6 +3,7 @@ List of plugins for ionic framework
 
 - [Cordova Plugins](http://ngcordova.com/docs/plugins/) -ngCordova comes with over 70 native Cordova plugins that you can easily add to your Angular Cordova apps.
 - [PhoneGap & Cordova plugins list](http://phonegap-plugins.com)
+- [cordova plugins](https://cordova.apache.org/plugins/)
 - [Ionic market](https://market.ionic.io/plugins)
 - [ionic v2 plugins](http://ionicframework.com/docs/v2/native) - Ionic Native is a curated set of ES5/ES6/TypeScript wrappers for Cordova/PhoneGap plugins that make adding any native functionality you need to your Ionic, Cordova, or Web View mobile app easy.
 - [cordova-camera-roll](https://github.com/lotterfriends/cordova-camera-roll) - An iOS camera roll plugin for Cordova/PhoneGap
