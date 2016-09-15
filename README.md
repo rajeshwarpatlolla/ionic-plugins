@@ -1,7 +1,7 @@
 List of plugins for ionic framework
 ===================================
 
-- [Cordova Plugins](http://ngcordova.com/docs/plugins/) -ngCordova comes with over 70 native Cordova plugins that you can easily add to your Angular Cordova apps.
+- [ngCordova Plugins](http://ngcordova.com/docs/plugins/) - ngCordova comes with over 70 native Cordova plugins that you can easily add to your Angular Cordova apps.
 - [PhoneGap & Cordova plugins list](http://phonegap-plugins.com)
 - [cordova plugins](https://cordova.apache.org/plugins/)
 - [Ionic market](https://market.ionic.io/plugins)
