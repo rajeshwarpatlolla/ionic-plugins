@@ -19,6 +19,7 @@ List of plugins for ionic framework
 - [ionic-ratings](https://github.com/rajeshwarpatlolla/ionic-ratings) - A ratings plugin for ionic framework applications
 - [ionic-filter-bar](https://github.com/djett41/ionic-filter-bar) - Filter Bar plugin for the Ionic Framework
 - [frosted-glass](https://github.com/driftyco/ionic-contrib-frosted-glass) - An optional frosted-glass effect for iOS 7 styled Ionic apps.
+- [ionic-modal-select](https://github.com/inmagik/ionic-modal-select) - Modal select for Ionic Framework
 - [ion-tinder-cards](https://github.com/driftyco/ionic-ion-tinder-cards) - Add Tinder-style card swiping to any app with this simple Ionic Ion.
 - [ion-swipe-cards](https://github.com/driftyco/ionic-ion-swipe-cards) - Swipeable card based layout for Ionic and Angular
 - [ionic-native-transitions](https://github.com/shprink/ionic-native-transitions) - Native transitions (iOS & Android) for Ionic Framework
