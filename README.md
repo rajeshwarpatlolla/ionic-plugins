@@ -36,6 +36,7 @@ List of plugins for ionic framework
 - [ion-affix](https://github.com/aliok/ion-affix) - Affix elements for Ionic framework
 - [ionic-advanced-carousel](https://github.com/sebelga/ionic-advanced-carousel) - Carousel directive for Ionic Frameworks that allows any custom template as an item.
 - [ion-horizontal-scroll-cards](https://github.com/drewrygh/ionic-ion-horizontal-scroll-cards) - Horizontal scroll cards inspired by the Spotify app.
+- [ionic-sidetabs](https://github.com/arielfaur/ionic-sidetabs) - Side tabs component for Ionic
 - [ion-slide-box-tabs](https://github.com/JKnorr91/ion-slide-box-tabs) - An Add-On directive for the ion-slide-box, that adds tabs to the slide box, known from the Android Material Design specification
 - [ion-alpha-scroll](https://github.com/aquint/ion-alpha-scroll) - Alphabetically indexed list with alpha scroll bar.
 - [ionic-wizard](https://github.com/arielfaur/ionic-wizard) - A set of angular directives to create a wizard using Ionic's slide box.
