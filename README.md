@@ -5,6 +5,7 @@ List of plugins for ionic framework
 - [PhoneGap & Cordova plugins list](http://phonegap-plugins.com)
 - [cordova plugins](https://cordova.apache.org/plugins/)
 - [Ionic market](https://market.ionic.io/plugins)
+- [ionic-plugin-keyboard](https://github.com/driftyco/ionic-plugin-keyboard)
 - [ionic v2 plugins](http://ionicframework.com/docs/v2/native) - Ionic Native is a curated set of ES5/ES6/TypeScript wrappers for Cordova/PhoneGap plugins that make adding any native functionality you need to your Ionic, Cordova, or Web View mobile app easy.
 - [plugreg](http://www.plugreg.com/)
 - [telerik plugins](http://plugins.telerik.com/cordova) - Curated list of Cordova/PhoneGap plugins that have been thoroughly tested, documented, and extended to empower cross-platform hybrid mobile developers.
@@ -38,6 +39,7 @@ List of plugins for ionic framework
 - [ion-horizontal-scroll-cards](https://github.com/drewrygh/ionic-ion-horizontal-scroll-cards) - Horizontal scroll cards inspired by the Spotify app.
 - [ionic-sidetabs](https://github.com/arielfaur/ionic-sidetabs) - Side tabs component for Ionic
 - [ion-slide-box-tabs](https://github.com/JKnorr91/ion-slide-box-tabs) - An Add-On directive for the ion-slide-box, that adds tabs to the slide box, known from the Android Material Design specification
+- [ionic_swiped-tabs](https://github.com/newsof1111/ionic_swiped-tabs-v1.1)
 - [ion-alpha-scroll](https://github.com/aquint/ion-alpha-scroll) - Alphabetically indexed list with alpha scroll bar.
 - [ionic-wizard](https://github.com/arielfaur/ionic-wizard) - A set of angular directives to create a wizard using Ionic's slide box.
 - [ionic-rating](https://github.com/fraserxu/ionic-rating) - An angularjs directive that take care of visualising a star rating bar
