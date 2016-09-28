@@ -10,14 +10,14 @@ List of plugins for ionic framework
 - [plugreg](http://www.plugreg.com/)
 - [telerik plugins](http://plugins.telerik.com/cordova) - Curated list of Cordova/PhoneGap plugins that have been thoroughly tested, documented, and extended to empower cross-platform hybrid mobile developers.
 - [cordova-camera-roll](https://github.com/lotterfriends/cordova-camera-roll) - An iOS camera roll plugin for Cordova/PhoneGap
-- [saveToPhotolibrary](https://github.com/lotterfriends/saveToPhotolibrary) - Simple plugin to handle save image to user library on iOS
-- [refreshgallery](https://github.com/lotterfriends/refreshgallery) - Phonegap Plugin Refresh Gallery
-- [imgcache](https://github.com/chrisben/imgcache.js) - JS library based on the File API to cache images for offline recovery (target: cordova/phonegap & chrome)
 - [ionic-speed-dial](https://github.com/ManishMittal/ionic-speed-dial) - Sass based Animted Fly Menus for ionic platform.
 - [ionic-datepicker](https://github.com/rajeshwarpatlolla/ionic-datepicker) - A date picker for ionic framework applications 
 - [ionic-timepicker](https://github.com/rajeshwarpatlolla/ionic-timepicker) - A time picker for ionic framework applications
 - [ionic-toast](https://github.com/rajeshwarpatlolla/ionic-toast) - A toast for ionic framework applications
 - [ionic-ratings](https://github.com/rajeshwarpatlolla/ionic-ratings) - A ratings plugin for ionic framework applications
+- [saveToPhotolibrary](https://github.com/lotterfriends/saveToPhotolibrary) - Simple plugin to handle save image to user library on iOS
+- [refreshgallery](https://github.com/lotterfriends/refreshgallery) - Phonegap Plugin Refresh Gallery
+- [imgcache](https://github.com/chrisben/imgcache.js) - JS library based on the File API to cache images for offline recovery (target: cordova/phonegap & chrome)
 - [ionic-filter-bar](https://github.com/djett41/ionic-filter-bar) - Filter Bar plugin for the Ionic Framework
 - [frosted-glass](https://github.com/driftyco/ionic-contrib-frosted-glass) - An optional frosted-glass effect for iOS 7 styled Ionic apps.
 - [ionic-modal-select](https://github.com/inmagik/ionic-modal-select) - Modal select for Ionic Framework
