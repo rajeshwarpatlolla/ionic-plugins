@@ -82,7 +82,7 @@ List of plugins for ionic framework
 - [material-action-button](https://codepen.io/fmtoffolo/pen/ozNJPv)
 
 ## Note
-- There might be few more plugins for ionic framework. If you have any idea about such plugins, which is not mentioned here, feel free to make a PR or raise an issue with that plugin details.
+- There might be few more plugins for ionic framework. If you find any such plugins, which is not mentioned here, please feel free to make a PR or raise an issue with that plugin details.
 
 ## License
 - [MIT](https://github.com/rajeshwarpatlolla/ionic-plugins/blob/master/LICENSE.md)
