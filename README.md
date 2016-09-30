@@ -9,12 +9,12 @@ List of plugins for ionic framework
 - [ionic v2 plugins](http://ionicframework.com/docs/v2/native) - Ionic Native is a curated set of ES5/ES6/TypeScript wrappers for Cordova/PhoneGap plugins that make adding any native functionality you need to your Ionic, Cordova, or Web View mobile app easy.
 - [plugreg](http://www.plugreg.com/)
 - [telerik plugins](http://plugins.telerik.com/cordova) - Curated list of Cordova/PhoneGap plugins that have been thoroughly tested, documented, and extended to empower cross-platform hybrid mobile developers.
-- [cordova-camera-roll](https://github.com/lotterfriends/cordova-camera-roll) - An iOS camera roll plugin for Cordova/PhoneGap
-- [ionic-speed-dial](https://github.com/ManishMittal/ionic-speed-dial) - Sass based Animted Fly Menus for ionic platform.
 - [ionic-datepicker](https://github.com/rajeshwarpatlolla/ionic-datepicker) - A date picker for ionic framework applications 
 - [ionic-timepicker](https://github.com/rajeshwarpatlolla/ionic-timepicker) - A time picker for ionic framework applications
 - [ionic-toast](https://github.com/rajeshwarpatlolla/ionic-toast) - A toast for ionic framework applications
 - [ionic-ratings](https://github.com/rajeshwarpatlolla/ionic-ratings) - A ratings plugin for ionic framework applications
+- [cordova-camera-roll](https://github.com/lotterfriends/cordova-camera-roll) - An iOS camera roll plugin for Cordova/PhoneGap
+- [ionic-speed-dial](https://github.com/ManishMittal/ionic-speed-dial) - Sass based Animted Fly Menus for ionic platform.
 - [saveToPhotolibrary](https://github.com/lotterfriends/saveToPhotolibrary) - Simple plugin to handle save image to user library on iOS
 - [refreshgallery](https://github.com/lotterfriends/refreshgallery) - Phonegap Plugin Refresh Gallery
 - [imgcache](https://github.com/chrisben/imgcache.js) - JS library based on the File API to cache images for offline recovery (target: cordova/phonegap & chrome)
