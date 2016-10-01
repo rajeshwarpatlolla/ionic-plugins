@@ -1,12 +1,13 @@
 List of plugins for ionic framework
 ===================================
 
+Plugins for Ionic v1
+-----------------------------------
 - [ngCordova Plugins](http://ngcordova.com/docs/plugins/) - ngCordova comes with over 70 native Cordova plugins that you can easily add to your Angular Cordova apps.
 - [PhoneGap & Cordova plugins list](http://phonegap-plugins.com)
 - [cordova plugins](https://cordova.apache.org/plugins/)
 - [Ionic market](https://market.ionic.io/plugins)
 - [ionic-plugin-keyboard](https://github.com/driftyco/ionic-plugin-keyboard)
-- [ionic v2 plugins](http://ionicframework.com/docs/v2/native) - Ionic Native is a curated set of ES5/ES6/TypeScript wrappers for Cordova/PhoneGap plugins that make adding any native functionality you need to your Ionic, Cordova, or Web View mobile app easy.
 - [plugreg](http://www.plugreg.com/)
 - [telerik plugins](http://plugins.telerik.com/cordova) - Curated list of Cordova/PhoneGap plugins that have been thoroughly tested, documented, and extended to empower cross-platform hybrid mobile developers.
 - [ionic-datepicker](https://github.com/rajeshwarpatlolla/ionic-datepicker) - A date picker for ionic framework applications 
@@ -77,6 +78,10 @@ List of plugins for ionic framework
 - [ionic-snippets-sublime-plugin](https://github.com/TenthGeek/ionic-snippets-sublime-plugin) - A sublime plugin complete with ionic framework snippets
 - [pullup-footer](https://github.com/arielfaur/ionic-pullup)
  
+ Plugins for Ionic v2
+-----------------------------------
+- [ionic v2 plugins](http://ionicframework.com/docs/v2/native) - Ionic Native is a curated set of ES5/ES6/TypeScript wrappers for Cordova/PhoneGap plugins that make adding any native functionality you need to your Ionic, Cordova, or Web View mobile app easy.
+
 ## Code snippets
 - [Code Snippets](https://codepen.io/ionic/)
 - [material-action-button](https://codepen.io/fmtoffolo/pen/ozNJPv)
