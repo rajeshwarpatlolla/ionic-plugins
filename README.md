@@ -86,6 +86,7 @@ Plugins for Ionic v2
 ## Code snippets
 - [Code Snippets](https://codepen.io/ionic/)
 - [material-action-button](https://codepen.io/fmtoffolo/pen/ozNJPv)
+- [Ionic2RESTHttpExample](https://github.com/Gajotres/Ionic2RESTHttpExample) - This Example will show you how to make a REST HTTP call with Ionic 2
 
 ## Note
 - There might be few more plugins for ionic framework. If you find any such plugins, which is not mentioned here, please feel free to make a PR or raise an issue with that plugin details.
