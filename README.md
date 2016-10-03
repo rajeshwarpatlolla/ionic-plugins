@@ -78,7 +78,7 @@ Plugins for Ionic v1
 - [ionic-snippets-sublime-plugin](https://github.com/TenthGeek/ionic-snippets-sublime-plugin) - A sublime plugin complete with ionic framework snippets
 - [pullup-footer](https://github.com/arielfaur/ionic-pullup)
 
- Plugins for Ionic v2
+Plugins for Ionic v2
 -----------------------------------
 - [ionic v2 plugins](http://ionicframework.com/docs/v2/native) - Ionic Native is a curated set of ES5/ES6/TypeScript wrappers for Cordova/PhoneGap plugins that make adding any native functionality you need to your Ionic, Cordova, or Web View mobile app easy.
 - [ionic2-nativecamera](https://github.com/rajayogan/ionic2-nativecamera) - Accessing camera using ionic-native
